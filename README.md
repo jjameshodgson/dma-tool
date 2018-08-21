@@ -1,7 +1,7 @@
 # Drone Motor Analysis Tool
 ## What is it
 
-It's a thing that does things and even other things, etc.
+It's a thing that does things and other things, etc.
 
 ## Components
 
